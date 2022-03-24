@@ -1,2 +1,2 @@
 # odin-recipes
-First TOP web project demonstrating use of GIT/VSC, boilerplate, image and paragraph
+First GitHub project utilizing everything learned so far!
